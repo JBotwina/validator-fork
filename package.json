@@ -1,5 +1,5 @@
 {
-  "name": "validator",
+  "name": "validator-fork",
   "description": "String validation and sanitization",
   "version": "13.9.0",
   "sideEffects": false,
